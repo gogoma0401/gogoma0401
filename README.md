@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=2AF563&height=280&width=100%&section=header&text=About%20Me!&fontSize=72&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=2AF563&height=280&width=100%&section=header&text=About%20Me!&fontSize=68&fontColor=ffffff"/>
 ##
 </br>
 안녕하세요! 신입 웹퍼블리셔로서의 첫 걸음을 내딪으며, 기술과 디자인을 탐구하고 협업을 통해 멋진 웹사이트들을 만들어 나가고 싶습니다.
