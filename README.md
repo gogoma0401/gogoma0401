@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 ## About Me!
 </br>
 안녕하세요! 신입 웹퍼블리셔로서의 첫 걸음을 내딪으며, 기술과 디자인을 탐구하고 협업을 통해 멋진 웹사이트들을 만들어 나가고 싶습니다.
@@ -33,10 +34,4 @@
 
 ## 💬 질문이 있으시면 물어보세요!
 궁금한 점이 생기면 언제든지 연락주세요! 함께 공부하고 발전하리라 믿습니다.
-
-<style>
-  *{
-   background-color: #f0f0f0;
-  }
-</style>
 
