@@ -35,7 +35,7 @@
 궁금한 점이 생기면 언제든지 연락주세요! 함께 공부하고 발전하리라 믿습니다.
 
 <style>
-  body{
+  *{
    background-color: #f0f0f0;
   }
 </style>
