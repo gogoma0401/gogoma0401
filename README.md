@@ -1,4 +1,4 @@
-## 저를 소개합니다
+## About Me!
 </br>
 안녕하세요! 신입 웹퍼블리셔로서의 첫 걸음을 내딪으며, 기술과 디자인을 탐구하고 협업을 통해 멋진 웹사이트들을 만들어 나가고 싶습니다.
 </br>
@@ -7,7 +7,7 @@
 </br></br>
 
 
-## 🌱 SKILLS
+## 🌱 Skills
 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"><img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"><img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css&logoColor=white"/><img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 
