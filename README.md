@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-안녕하세요! 신입 웹퍼블리셔로서의 첫 걸음을 내딪으며,  기술과 디자인을 탐구하고 협업을 통해 멋진 웹사이트들을 만들어 나가고 싶습니다. 성장하며 발전하는 퍼블리셔가 되겠습니다! 🚀💻
+안녕하세요! 신입 웹퍼블리셔로서의 첫 걸음을 내딪으며, 기술과 디자인을 탐구하고 협업을 통해 멋진 웹사이트들을 만들어 나가고 싶습니다. 성장하며 발전하는 퍼블리셔가 되겠습니다! 🚀💻
 <!--
 **gogoma0401/gogoma0401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
