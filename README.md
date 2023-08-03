@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=2AF563&height=280&width=1920&section=header&text=About%20Me!&fontSize=64&fontColor=ffffff&animation=fadeIn"/>
-## 안녕하세요! 신입 웹퍼블리셔로서의 첫 걸음을 내딪으며, 기술과 디자인을 탐구하고 협업을 통해</br>멋진 웹사이트들을 만들어 나가고 싶습니다. 성장하며 발전하는 퍼블리셔가 되겠습니다! 🚀💻
+###안녕하세요! 신입 웹퍼블리셔로서의 첫 걸음을 내딪으며, 기술과 디자인을 탐구하고 협업을 통해</br>멋진 웹사이트들을 만들어 나가고 싶습니다. 성장하며 발전하는 퍼블리셔가 되겠습니다! 🚀💻
 
 
 </br></br>
